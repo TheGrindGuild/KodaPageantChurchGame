@@ -1,18 +1,18 @@
 {
-  "team": "TODO-your-github-username-kebab-case",
+  "team": "thegrindguild",
   "gameName": "pageant-showdown",
   "displayTitle": "Koda Pageant Showdown",
   "description": "Who wins this Koda Pageant? Pick a side, watch the vote flip, and double your bet if you called it right. A head-to-head coin flip themed after KodaPageant's own voting arena.",
   "authors": [
     {
-      "name": "TODO-your-name",
-      "telegram": "TODO-your-telegram-username"
+      "name": "CDNHODLer",
+      "telegram": "CDNHODLer"
     }
   ],
   "revenueShare": [
     {
-      "name": "TODO-your-name",
-      "telegram": "TODO-your-telegram-username",
+      "name": "CDNHODLer",
+      "telegram": "CDNHODLer",
       "address": "0xd5cd731d196226cd4f80fa91dab28f5d53ab8264",
       "share": 100
     }
